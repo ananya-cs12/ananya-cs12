@@ -4,7 +4,7 @@
 🎓 writing code + rewriting errors since... let’s not talk about it  
 💡 powered by caffeine, curiosity, and clean indentation  
 🧩 lowkey obsessed with neat UIs and even neater logic  
-🐞 still debugging life (but my C++ runs fine, thanks)  
+🐞 still debugging life (but my code runs fine, thanks)  
 
 ---
 
