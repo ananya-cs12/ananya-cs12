@@ -14,7 +14,7 @@
 - 🧠 usually found building with **C++**, **Python**, or chasing bugs like puzzles  
 - 🎀 known for claw clips, side projects, and clean indentation  
 - 🤓 slow replies but fast logic  
-- ✦ currently diving into **Web Dev**, **Java**, **Git** & **DSA**  
+- ✦ currently diving into **Web Dev**  &  **Git**  
 
 ---
 
@@ -23,21 +23,21 @@
 - 💙 **C++** – first love, not letting go  
 - 🐍 **Python** – clean & chill  
 - 🗂️ **MySQL** – I like order, okay?  
-- ☕ **Java** – in progress... one semicolon at a time  
+   
 
 ---
 
 ### ⚙️ tech stack  
 
 - 🛠️ **Tools:** VS Code, Git, GitHub, Windows 11  
-- 💬 **Languages:** C++, Python, Java (learning), MySQL  
+- 💬 **Languages:** C++, Python, MySQL  
 - 🧱 **Concepts:** File handling, OOP, logic building, simple GUIs  
 - 🗃️ **Projects include:**  
   - 🔐 Number & password guessing games  
   - ⏳ Countdown timer, table & grade calculators  
   - 🗂️ Student Record Management (file-based, no STL)  
 - 🚧 **Currently exploring:**  
-  Web Development • Git & GitHub • DSA • Clean Code  
+  Web Development • Git & GitHub • Clean Code  
 
 ---
 
