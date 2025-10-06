@@ -11,20 +11,10 @@
 ### 💻 about me  
 
 - 👩‍💻 17 y/o student + developer with quiet fire and clear focus  
-- 🧠 usually found building with **C++**, **Python**, or chasing bugs like puzzles  
-- 🎀 known for claw clips, side projects, and clean indentation  
+- 🧠 usually found building with **C++**, **Python**, or chasing bugs like puzzles    
 - 🤓 slow replies but fast logic  
 - ✦ currently diving into **Web Dev**  &  **Git**  
-
----
-
-### 💬 what I speak fluently  
-
-- 💙 **C++** – first love, not letting go  
-- 🐍 **Python** – clean & chill  
-- 🗂️ **MySQL** – I like order, okay?  
-   
-
+  
 ---
 
 ### ⚙️ tech stack  
@@ -57,16 +47,7 @@
 - 🤖 lowkey enjoys debugging more than socializing  
 - ⌨️ Ctrl+Z is basically muscle memory  
 - 🩹 adds “just for now” code that stays forever  
-
----
-
-### 📌 pinned ≠ everything  
-
-- ✔️ if it’s on my GitHub — I built it  
-- ✨ if it looks neat — I obsessed over it  
-- 🔥 if it made me suffer — I probably learned a lot 🕯️  
-- ⏳ still learning. still building. still showing up  
-
+  
 ---
 
 <p align="center"><i>“code like you mean it.”</i></p>
