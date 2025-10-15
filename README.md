@@ -10,7 +10,7 @@
 
 ### 💻 about me  
 
-- 👩‍💻 17 y/o student + developer with quiet fire and clear focus  
+- 👩‍💻student + developer with quiet fire and clear focus  
 - 🧠 usually found building with **C++**, **Python**, or chasing bugs like puzzles    
 - 🤓 slow replies but fast logic  
 - ✦ currently diving into **Web Dev**  &  **Git**  
